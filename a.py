@@ -1,2 +1,0 @@
-def chutiya:
-  return somil
